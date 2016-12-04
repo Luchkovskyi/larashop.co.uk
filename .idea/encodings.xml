@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/ItemsController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/orders.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2016_09_03_135150_create_parameters_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2016_09_03_135206_create_items_table.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2016_09_05_080231_create_orders_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/add.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/basket.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/catcreate.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/finish_order.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/indexGoods.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/orders.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/parameters.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/see_order.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/show.blade.php" charset="UTF-8" />
+  </component>
+</project>

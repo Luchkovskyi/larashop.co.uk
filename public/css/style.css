@@ -1,0 +1,14 @@
+.del_image {position: absolute;
+    top: 5px;
+    right: 5px;}
+.img-thumbnail {position: relative;}
+#selcat{
+    width: 230px;
+}
+#but{
+    float:right;
+    margin-top: -33px;
+}
+#sel{
+    width:170px;
+}
